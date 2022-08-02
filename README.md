@@ -1,1 +1,1 @@
-# Hamoye-python-for-machine-learning
+# Hamoye Data Science Internship
